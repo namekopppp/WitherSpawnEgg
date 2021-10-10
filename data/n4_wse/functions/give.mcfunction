@@ -1,0 +1,1 @@
+give @s minecraft:armor_stand{EntityTag:{NoGravity:1b,Tags:["WitherSpawnEgg"]},CustomModelData:1,display:{Name:"\"Wither Spawn Egg\""}}
