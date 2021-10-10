@@ -1,0 +1,1 @@
+give @s armor_stand 1 0 {EntityTag:{Invisible:1b,Tags:["WitherSpawnEgg"]}}

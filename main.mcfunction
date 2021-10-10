@@ -1,0 +1,1 @@
+function nfwse:summonwither if @e[tag=WitherSpawnEgg]
