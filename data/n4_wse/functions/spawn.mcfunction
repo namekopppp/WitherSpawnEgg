@@ -1,0 +1,2 @@
+summon wither ~ ~ ~
+setblock ~ ~ ~ air
