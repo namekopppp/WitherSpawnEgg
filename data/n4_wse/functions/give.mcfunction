@@ -1,1 +1,0 @@
-give @p minecraft:command_block{BlockEntityTag:{auto: 1b, Command: '/function n4_wse:spawn'},display:{Name:"{\"text\":\"ウィザーのスポーンエッグ\",\"color\":\"white\",\"italic\":false}"},CustomModelData:1}
